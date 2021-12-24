@@ -1,0 +1,123 @@
+body {
+    font-family: 'Staatliches', cursive;
+background-image: url(../afbeeldingen/achtergrond.jpg);
+background-size: cover;
+}
+
+#img-hover:hover {
+    opacity: 0.4;
+}
+
+#button {
+    background-color: rgb(29, 29, 29);
+    border: #f3f3f3;
+    box-shadow: 5px 5px 5px #14141479;
+    color: #6F5E61;
+}
+
+#button:hover{
+    background-color: rgb(255, 255, 255);
+}
+
+#list-group{
+    width: 300px;
+}
+
+h2{
+    text-align: center;
+    text-decoration: underline;
+}
+
+#jumbotron {
+    margin-top: 40px;
+}
+
+#brand {
+    margin-left: 20px;
+}
+
+#navbar {   
+    
+    font-size: 20px;
+    background-color: rgba(65, 65, 65, 0.692);
+    box-shadow: 5px 5px 5px #000000d7;
+}
+
+#card {
+    margin-left: 35%;
+    margin-top: 20px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+#container {
+    background-color: rgba(255, 255, 255, 0.5);
+    padding-top: 10px;
+    margin-top: 10px;
+}
+
+footer {
+    background-color: rgba(65, 65, 65, 0.692);
+    box-shadow: 5px 5px 5px #0000009c;
+    margin-top: 10px;
+}
+
+h5{
+  color:  #6F5E61;
+}
+
+h1 {
+    color: rgb(29, 29, 29);
+}
+
+
+p{
+    color: #ffffff;
+}
+
+#card-text{
+  color:  #686062;
+}
+
+#link {
+   color: #686062;
+}
+
+#list {
+    margin-left: 30%;
+
+}
+
+.istanbul {
+    float: right;
+    width: 450px;
+    height: 300px;
+    border-radius: 20px;
+}
+
+.london {
+    float: left;
+    width: 450px;
+    height: 300px;
+    border-radius: 20px;
+}
+
+form {
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+form input {
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.contact {
+    text-align: center;
+    margin: 0;
+}
+
+.submit {
+    width: 80px;
+    height: 30px;
+}
